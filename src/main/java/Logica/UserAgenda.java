@@ -8,6 +8,13 @@ package Logica;
  *
  * @author Nacho
  */
-public class UserAgenda {
+public class UserAgenda extends Usuario {
     
+
+
+
+
+
+
+
 }

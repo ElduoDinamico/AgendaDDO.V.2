@@ -8,6 +8,24 @@ package Logica;
  *
  * @author Nacho
  */
-public class Usuario {
+public abstract class Usuario {
+    
+    private String nombre ;
+    private String pass;
+    private String nombreCompleto;
+    
+    
+    
+    
+    public boolean PassCorrecta (String pass){
+    
+        return this.pass.equals(pass);
+    
+    }
+    
     
 }
+
+
+
+

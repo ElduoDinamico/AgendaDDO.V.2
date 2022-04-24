@@ -10,4 +10,8 @@ package Logica;
  */
 public class Contacto {
     
+  private String nombre;
+  private Telefono telefono;
+  private String apellido;
+  
 }
